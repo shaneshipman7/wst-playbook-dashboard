@@ -2,8 +2,8 @@ name: Scrape WST Playbooks
 
 on:
   schedule:
-    - cron: '0 * * * *'    # every hour
-  workflow_dispatch:       # allows manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -24,7 +24,7 @@ jobs:
           pip install requests beautifulsoup4 pandas pyyaml
 
       - name: Run scraper
-        run: python scrape.py   # ← change if your script has a different name
+        run: python scrape.py
 
       - name: Commit and push changes
         run: |
