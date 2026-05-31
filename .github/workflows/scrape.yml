@@ -24,7 +24,7 @@ jobs:
           pip install requests beautifulsoup4 pandas pyyaml
 
       - name: Run scraper
-        run: python scrape.py
+        run: python scraper.py     # ← Changed to match your actual file
 
       - name: Commit and push changes
         run: |
