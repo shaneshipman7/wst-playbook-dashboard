@@ -1,4 +1,4 @@
 Date,Ticker,Post_Title,Scenario,Entry,Stop_Loss,Targets,R_R_Ratio,Est_Probability,Link
-2026-06-22,SLI,SLI,Base Case (Target 1),$3.69,$3.96,+7.3%,55%,,https://wildswingtrades.blogspot.com/2026/06/sli_0778698442.html
-2026-06-22,SLI,SLI,Bull Case (Target 2),$3.69,$4.41,+19.5%,35%,,https://wildswingtrades.blogspot.com/2026/06/sli_0778698442.html
-2026-06-22,SLI,SLI,Bear Case (Hard Stop),$3.69,$3.49,-5.4%,100% (if stop hit),,https://wildswingtrades.blogspot.com/2026/06/sli_0778698442.html
+2026-06-22,VRDN,VRDN,Base Case (Target 1),$16.16,$17.34,+7.3%,48%,,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
+2026-06-22,VRDN,VRDN,Bull Case (Target 2),$16.16,$18.7,+15.7%,28%,,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
+2026-06-22,VRDN,VRDN,Bear Case (Hard Stop),$16.16,$15.59,-3.5%,100% (if stop hit),,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
