@@ -1,4 +1,1 @@
-Date,Ticker,Post_Title,Scenario,Entry,Stop_Loss,Targets,R_R_Ratio,Est_Probability,Link
-2026-06-23,VRDN,VRDN,Base Case (Target 1),$16.16,$17.34,+7.3%,48%,,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
-2026-06-23,VRDN,VRDN,Bull Case (Target 2),$16.16,$18.7,+15.7%,28%,,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
-2026-06-23,VRDN,VRDN,Bear Case (Hard Stop),$16.16,$15.59,-3.5%,100% (if stop hit),,https://wildswingtrades.blogspot.com/2026/06/vrdn.html
+
